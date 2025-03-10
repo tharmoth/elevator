@@ -1,0 +1,15 @@
+C:\Users\Tharmoth\Documents\_programming\Elevator\Elevator\bin\Debug\net8.0\Elevator.exe
+C:\Users\Tharmoth\Documents\_programming\Elevator\Elevator\bin\Debug\net8.0\Elevator.deps.json
+C:\Users\Tharmoth\Documents\_programming\Elevator\Elevator\bin\Debug\net8.0\Elevator.runtimeconfig.json
+C:\Users\Tharmoth\Documents\_programming\Elevator\Elevator\bin\Debug\net8.0\Elevator.dll
+C:\Users\Tharmoth\Documents\_programming\Elevator\Elevator\bin\Debug\net8.0\Elevator.pdb
+C:\Users\Tharmoth\Documents\_programming\Elevator\Elevator\obj\Debug\net8.0\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tharmoth\Documents\_programming\Elevator\Elevator\obj\Debug\net8.0\Elevator.AssemblyInfoInputs.cache
+C:\Users\Tharmoth\Documents\_programming\Elevator\Elevator\obj\Debug\net8.0\Elevator.AssemblyInfo.cs
+C:\Users\Tharmoth\Documents\_programming\Elevator\Elevator\obj\Debug\net8.0\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Tharmoth\Documents\_programming\Elevator\Elevator\obj\Debug\net8.0\Elevator.dll
+C:\Users\Tharmoth\Documents\_programming\Elevator\Elevator\obj\Debug\net8.0\refint\Elevator.dll
+C:\Users\Tharmoth\Documents\_programming\Elevator\Elevator\obj\Debug\net8.0\Elevator.pdb
+C:\Users\Tharmoth\Documents\_programming\Elevator\Elevator\obj\Debug\net8.0\Elevator.genruntimeconfig.cache
+C:\Users\Tharmoth\Documents\_programming\Elevator\Elevator\obj\Debug\net8.0\ref\Elevator.dll
+C:\Users\Tharmoth\Documents\_programming\Elevator\Elevator\obj\Debug\net8.0\Elevator.sourcelink.json
