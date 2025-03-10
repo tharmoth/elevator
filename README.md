@@ -6,10 +6,6 @@ This project simulates an elevator system written in C#. It calculates total tra
 - **Unsorted Mode**: Visits floors in provided order.
 - **Sorted Mode**: Optimizes route for minimal travel time.
 
-## Assumptions
-- Each floor traversal takes **10 seconds**.
-- Duplicates are removed automatically.
-
 ## Usage
 
 ### Compilation
